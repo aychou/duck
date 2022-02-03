@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "contestant": "Scintillating Sisters",
+      "voteCount": 3400,
+      "img": "sisters.jpeg"
+    },
+    {
+      "contestant": "Aunt Therese",
+      "voteCount": 1264,
+      "img": "therese.jpeg"
+    },
+    {
+      "contestant": "Margaret Thatcher",
+      "voteCount": 1222,
+      "img": "margaret.jpeg"
+    },
+    {
+      "contestant": "Hester Prynne",
+      "voteCount": 1850,
+      "img": "hester.jpeg"
+    }
+  ]
+}
