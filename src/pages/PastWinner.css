@@ -1,0 +1,57 @@
+.pastwinner {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.left {
+    width: 50%;
+    height: 570px;
+    background-color: #EFDCB6;
+}
+
+.right {
+    width: 25%;
+    height: 400px;
+    margin-right: 10%;
+}
+
+.scroll {
+    overflow-y: scroll;
+    width: 100%;
+    height: 350px;
+}
+
+.scroll::-webkit-scrollbar {
+    width: 8px;
+}
+
+.scroll::-webkit-scrollbar-track {
+    -webkit-box-shadow: transparent;
+    border-radius: 0px;
+}
+
+.scroll::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background-color: #CECECE;
+}
+
+.subtext {
+    padding: 80px;
+}
+
+.subtext h1 {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.subtext h4 {
+    font-weight: normal;
+    font-size: 20px;
+}
+
+.right h1 {
+    font-weight: 900;
+}
+
